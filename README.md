@@ -6,3 +6,4 @@ This plugin , to be added to kintone in the plugins list, adds the ability to pr
 
 It was created for a Taiwan based company that uses KINTONE as they middleman for all CRM / ERP  needs, and it adds previously missing default functionality. 
 
+This includes the manifest and the .js file, but they must still be packaged properly for kintone distribution. 
